@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Digiapt</string>
+
+    <string name="web_client_id">868905612492-4rfiof38q32qembmsbs5hnd7a1tsfk2g.apps.googleusercontent.com</string>
+    <string name="todo">TODO</string>
+</resources>
